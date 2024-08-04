@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**moiseshp/moiseshp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer with a strong focus on User Experience and User Interfaces. I take ownership of projects, aiming to contribute beyond the code and prioritize the successful outcomes of the business.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Tailwind CSS, MaterialUI
+- **Backend:** Node.js, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- React Native with Expo
+
+## 🛠 Projects
+- **[Checkout Web - PedidosYa](https://www.pedidosya.com/):** Maintenance of the Checkout view for PedidosYa, implementing UI components and logic to manage various types of Checkout: Checkout Plus (membership registration), Checkout Cart (payment in restaurants and shops), and Checkout Donations (registration of voluntary donations)..
+- **[Pacífico Seguros](https://pacifico-beneficios-ecdk8.ondigitalocean.app/):** Benefits web for employees and clients of Pacífico Seguros, developing views for user authentication, discount listings, discount details, and code retrieval. Layout for mobile and desktop.
+- **[Blanquiazul - Alianza Lima](https://www.blanquiazul.com/):** MVP application that allows users to customize Club Alianza Lima shirts from Peru by editing the number and name. The app enables users to personalize, download as an image, and share.
+- **[Holistic Marketing Group](https://holisticbeneficios.com/):** Development of a Backoffice for Holistic Marketing Group, including: benefit program management, establishment maintenance, discount and promotion management, client registration and deregistration, code validation, and establishment affiliation form.
+
+## 📫 Let's Connect
+- **LinkedIn:** [moiseshp](https://www.linkedin.com/in/moiseshp/)
+- **Email:** [moiseseduardo.hp@gmail.com](mailto:moiseseduardo.hp@gmail.com)
+- **X:** [moiseseduardohp](https://x.com/moiseseduardohp)
+
+💡 Interested in working together? Feel free to email me or check out my CV for more details about my experience.
