@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer with a strong focus on User Experience and User Interfaces. I take ownership of projects, aiming to contribute beyond the code and prioritize the successful outcomes of the business.
 
-## 🔧 Technologies & Tools
+## 🔧 Skills
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries:** React, Next.js, Tailwind CSS, MaterialUI
 - **Backend:** Node.js, Express
