@@ -15,7 +15,7 @@ I'm a Frontend Developer with a strong focus on User Experience and User Interfa
 - **[Pacífico Seguros](https://pacifico-beneficios-ecdk8.ondigitalocean.app/):** Benefits web for employees and clients of Pacífico Seguros, developing views for user authentication, discount listings, discount details, and code retrieval. Layout for mobile and desktop.
 - **[Blanquiazul - Alianza Lima](https://www.blanquiazul.com/):** MVP application that allows users to customize Club Alianza Lima shirts from Peru by editing the number and name. The app enables users to personalize, download as an image, and share.
 - **[Holistic Marketing Group](https://holisticbeneficios.com/):** Development of a Backoffice for Holistic Marketing Group, including: benefit program management, establishment maintenance, discount and promotion management, client registration and deregistration, code validation, and establishment affiliation form.
-- **[LED Perú](https://eventos.led-peru.org/):** Landing Page for the registration of participants for the "PASANDO LA POSTA" conference by the Christian organization "Lima al Encuentro con Dios".
+- **[Landing Page - LED Perú](https://eventos.led-peru.org/):** Landing Page for the registration of participants for the "PASANDO LA POSTA" conference by the Christian organization "Lima al Encuentro con Dios".
 
 ## 📫 Let's Connect
 - **LinkedIn:** [moiseshp](https://www.linkedin.com/in/moiseshp/)
