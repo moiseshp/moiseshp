@@ -1,16 +1,10 @@
-# Hi there! 👋
+# Hello 👋
 
-I'm a Frontend Developer with a strong focus on User Experience and User Interfaces. I take ownership of projects, aiming to contribute beyond the code and prioritize the successful outcomes of the business.
+## Connect with me 🌐
 
-## 🔧 Skills
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Tailwind CSS, MaterialUI
-- **Backend:** Node.js, Express
+- 🌎 **Website:** [Website](https://moiseshp.dev)
+- 🐦 **Twitter:** [@moiseseduardohp](https://x.com/moiseseduardohp)
+- 💼 **LinkedIn:** [My Profile](https://linkedin.com/in/moiseshp)
 
-<div align='center'>
-  <samp>
-    <a href='https://moiseshp.dev/'>website</a> •
-    <a href='https://www.linkedin.com/in/moiseshp/'>linkedin</a> •
-    <a href='https://x/moiseseduardohp'>twitter</a>
-  </samp>
-</div>
+Thanks for stopping by!
+
